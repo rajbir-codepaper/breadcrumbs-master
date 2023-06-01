@@ -15,7 +15,7 @@
     "require": {
         "php": "^7.0|^8.1.10",
         "facade/ignition-contracts": "^1.0",
-        "laravel/framework": "^8.0"
+        "laravel/framework": "^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "orchestra/testbench": ">=3.6",
